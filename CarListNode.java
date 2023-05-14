@@ -1,6 +1,4 @@
 //@author Shreyan Wankavala
-//112634232
-//@recitation 2114
 
 public class CarListNode {
 
